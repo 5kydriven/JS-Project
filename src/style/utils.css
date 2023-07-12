@@ -1,0 +1,61 @@
+/* xs */
+/* @media (min-width: 475px) {}  */
+
+/* sm */
+/* @media (min-width: 640px) {}  */
+
+/* md */
+/* @media (min-width: 768px) {}  */
+
+/* lg */
+/* @media (min-width: 1024px) {}  */
+
+/* xl */
+/* @media (min-width: 1280px) {}  */
+
+/* 2xl */
+/* @media (min-width: 1536px) {}  */
+
+/* .btn{
+    display: inline-block;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: -0.05em;
+    background-color: var(--clr-yellow);
+    color: var(--clr-grey900);
+    box-shadow: var(--shadow-1);
+    animation: 2s ease 0s infinite normal none running bounce;
+    padding: 0.5em 1em;
+    border-radius: 6px;
+
+}
+
+.btn:hover{
+
+} */
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.section {
+    padding-top: 5rem;
+    background: var(--clr-grey200);
+}
+
+/* @keyframes bounce {
+    0% {
+        transform: scale(1);
+    } 
+    50% {
+        transform: scale(1.1);
+    } 
+    100% {
+        transform: scale(1);
+    }
+} */
+
