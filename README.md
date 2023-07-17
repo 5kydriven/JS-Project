@@ -1,3 +1,3 @@
 # JS-Project
 This website intended for my JavaScript projects
-link: https://js-project-4zvfkwd6h-5kydriven.vercel.app/?vercelToolbarCode=bSMscH5YSkmQDY5
+link: https://js-project-one-zeta.vercel.app/?vercelToolbarCode=rHA-RaTkDjZu8-_
